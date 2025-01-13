@@ -1,17 +1,13 @@
-# LeetCode-Problems-in-Java
-
+# LeetCode-Problems
 #
 
-# This repository contains my solutions to the LeetCode problems in Java.
+# This repository contains my solutions to the LeetCode problems mix in Java and javascript.
 
 #
 
 # The problems are sorted by difficulty level.
 
 #
-
-# The solutions are written in Java 8.
-
 #
 
 # The solutions are tested and their runtime beats 100% of the submissions.
